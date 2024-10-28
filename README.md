@@ -1,6 +1,6 @@
 # Custom CLI App for OpenAI
 
-This project provides a Command Line Interface (CLI) application using Python's `typer` library and OpenAI's API. The app allows users to interact with OpenAI's models and extract key option parameters from input text.
+This project provides a Command Line Interface (CLI) application using Python's `typer` library and OpenAI's API. The app allows users to interact with OpenAI's models and extract key option parameters from input text directly from CLI.
 
 ## Getting Started
 
