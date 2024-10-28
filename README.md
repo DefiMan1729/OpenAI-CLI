@@ -116,5 +116,9 @@ if __name__ == "__main__":
     app()
 
 ```
+***Run commands on CLI***
+```sh
+typer main.py promptai "Your question here"
+```
 ## Sample CLI app
 <img width="620" alt="AIonCLI" src="https://github.com/user-attachments/assets/9bd62571-37a5-49ee-a453-1a482b581d05">
